@@ -18,3 +18,12 @@ FastAPI backend for a simple Task / Notes mobile application.
 - Uvicorn
 
 ## Project Structure
+task_api/
+├── app/
+│ ├── main.py
+│ ├── database.py
+│ ├── models/
+│ ├── schemas/
+│ ├── services/
+│ └── routes/
+└── venv/
